@@ -1,0 +1,10 @@
+#!bin/bash
+
+echo "The current shell is" $SHELL
+
+# user defined arguments
+first_name="Virat"
+last_name="Kohli"
+
+echo "First name and last name of player is $first_name $last_name"
+ 
